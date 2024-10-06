@@ -1,4 +1,4 @@
-print("This is my string project")
+print("This is practice branch.")
 
 A = "Hello World !"
 
